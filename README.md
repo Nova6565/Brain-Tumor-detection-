@@ -1,6 +1,6 @@
 # Brain-Tumor-detection-
 Brain Tumor Detection with PyTorch and Gradio UI
-This project focuses on detecting brain tumors using deep learning techniques, achieving an impressive 96% accuracy on the testing dataset. The solution is built using PyTorch and leverages a pretrained ResNet-18 model for efficient and accurate classification.
+This project focuses on detecting brain tumors using deep learning techniques, achieving an impressive 97% accuracy on the testing dataset. The solution is built using PyTorch and leverages a pretrained ResNet-18 model for efficient and accurate classification.
 
 To enhance usability, the project includes a user-friendly Gradio-based web interface that allows users to upload an image and instantly receive predictions about the presence of a brain tumor.
 
